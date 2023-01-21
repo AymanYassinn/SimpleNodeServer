@@ -1,0 +1,22 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "Simple Node Js Server By JustCodesDevelopers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymanYassinn/SimpleNodeServer.git"
+  },
+  "author": "Just Codes Developers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AymanYassinn/SimpleNodeServer/issues"
+  },
+  "homepage": "https://github.com/AymanYassinn/SimpleNodeServer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
